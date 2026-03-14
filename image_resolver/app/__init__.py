@@ -1,0 +1,3 @@
+"""
+Image Resolver package.
+"""
